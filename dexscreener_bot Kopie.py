@@ -5,8 +5,8 @@ from telegram import Bot
 from datetime import datetime, timedelta
 
 # Telegram Bot Token und Chat ID
-TELEGRAM_TOKEN = '7003614304:AAFkjEGul7YuhA4ZYay5B9H6sVTgPMTimTo'
-CHAT_ID = '5939632540'
+TELEGRAM_TOKEN = ''
+CHAT_ID = ''
 
 # Dexscreener API URL für neue Token-Paare in Meteora
 DEXSCREENER_API_URL = 'https://api.dexscreener.com/latest/dex/solana/search?q=Meteora'
